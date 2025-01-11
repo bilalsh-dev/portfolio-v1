@@ -13,8 +13,8 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Howdy! I&apos;m Bilal Shahid, and I&apos;m a Bachelor of Science
-              in Software Engineering graduate.
+              Howdy! I&apos;m Bilal Shahid, and I&apos;m a Software Engineering
+              graduate.
               <br />
               <br />I have experience working in both the mobile and web
               development worlds, with a focus on frontend development. I&apos;m
